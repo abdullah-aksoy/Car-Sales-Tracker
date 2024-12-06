@@ -17,7 +17,7 @@ This C program tracks the sales of different car brands and calculates the total
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Car-Sales-Tracker
+    git clone https://github.com/abdullah-aksoy/Car-Sales-Tracker
     cd Car-Sales-Tracker
     ```
 
