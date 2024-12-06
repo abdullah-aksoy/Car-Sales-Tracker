@@ -17,20 +17,20 @@ This C program tracks the sales of different car brands and calculates the total
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/carsalestracker.git
-    cd carsalestracker
+    git clone https://github.com/yourusername/Car-Sales-Tracker
+    cd Car-Sales-Tracker
     ```
 
 2. Compile the program:
     ```sh
-    gcc -o carsalestracker carsalestracker.c
+    gcc -o Car-Sales-Tracker Car-Sales-Traker.c
     ```
 
 ## Usage
 
 1. Run the compiled program:
     ```sh
-    ./carsalestracker
+    ./Car-Sales-Tracker
     ```
 
 2. Enter the car code (1 for Renault, 2 for Mazda, 3 for Honda, 4 for Ford) and the sales amount when prompted.
