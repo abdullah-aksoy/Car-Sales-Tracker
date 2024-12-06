@@ -47,4 +47,6 @@ The program performs the following steps:
 5. Determines the car that generated the most revenue.
 6. Displays the results.
 
+## Disclaimer
+
 This program is provided as-is without any warranty. You may use, modify, and distribute it freely for educational purposes.
